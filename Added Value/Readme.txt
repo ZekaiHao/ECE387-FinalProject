@@ -11,3 +11,10 @@ Right switch pin ----> Pin10
 
 Vcc  ----> power arduino 5v pin
 gnd ----> power arduino ground pin
+
+
+Libraries That i used:
+
+#include <UTFT.h>
+#include <URTouch.h>
+#include <Wire.h>
